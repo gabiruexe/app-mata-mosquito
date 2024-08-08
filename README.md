@@ -56,11 +56,3 @@
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias no código ou novos recursos. Basta fazer um fork do projeto, criar uma branch com suas alterações e enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-**Divirta-se jogando Mata Mosquito!**
